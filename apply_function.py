@@ -2,7 +2,7 @@
 """
 Created on Sun Mar 27 03:24:51 2022
 
-@author: Admin
+@author: Suraj
 """
 
 #-----------------Apply Family of Functions--------------------------------
